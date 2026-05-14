@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently try to find a work
+- 🌱 I’m currently learning IA Engineering and Rust
+- 💬 Ask me about Television signal processing in a TV Headend
+- 📫 How to reach me: mauricio.roldan.r@gmail.com
+- 😄 Pronouns: He, his
+
+
 <!--
 **mroldanrpo/mroldanrpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
